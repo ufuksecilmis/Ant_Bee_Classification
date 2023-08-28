@@ -2,7 +2,7 @@
 
 ![Ant_Bee](https://github.com/ufuksecilmis/Ant_Bee_Classification/assets/51096261/ba4840b1-5d9f-445f-98a0-51608c99afc5)
  
-We will use Pytorch Lightning.
+We will use Pytorch Lightning. Pytorch-Lightning is build on the top of the Pytorch for multi-gpu training.
 
 The problem we’re going to solve today is to train a model to classify ants and bees. We have about 120 training images each for ants and bees. There are 75 validation images for each class. This dataset is a very small subset of imagenet.
 
